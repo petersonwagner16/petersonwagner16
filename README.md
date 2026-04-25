@@ -31,18 +31,31 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petersonwagner16/petersonwagner16/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/petersonwagner16/petersonwagner16/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/petersonwagner16/petersonwagner16/output/pacman-contribution-graph.svg">
-</picture>
+<div align="start">
+  <table>
+    <tr>
+      <td>
+        <a href="mailto:peterson.wagner.gartz@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+      </td>
+      <td>peterson.wagner.gartz@gmail.com</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="COLOQUE_O_LINK_DO_SEU_PERFIL_AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+      </td>
+      <td>linkedin.com/in/seu-usuario</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<div align="start">
-  <a href="mailto:peterson.wagner.gartz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-</div>
+
+
+
 
 
