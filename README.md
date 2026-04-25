@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5E7AC4&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5E7AC4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Peterson+Wagner+Gartz)](https://git.io/typing-svg) 
 
 <div align="center">  
@@ -34,34 +33,29 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td style="border: none;">
         <a href="mailto:peterson.wagner.gartz@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
       </td>
-      <td>peterson.wagner.gartz@gmail.com</td>
+      <td style="border: none;">peterson.wagner.gartz@gmail.com</td>
     </tr>
     <tr>
-      <td>
-        <a href="COLOQUE_O_LINK_DO_SEU_PERFIL_AQUI" target="_blank">
+      <td style="border: none;">
+        <a href="https://linkedin.com/in/peterson-wagner-gartz" target="_blank">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
       </td>
-      <td>linkedin.com/in/seu-usuario</td>
+      <td style="border: none;">linkedin.com/in/peterson-wagner-gartz</td>
     </tr>
   </table>
 </div>
 
-
-     
-
 ---
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" >
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
-      
-
-
 
 
 
